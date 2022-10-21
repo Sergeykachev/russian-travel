@@ -1,0 +1,12 @@
+/*подключение глобальных стилей*/
+
+@import url(../vendor/normalize.css);
+@import url(../blocks/pages/page.css);
+
+/*подключение глобальных стилей*/
+
+/*подключение блока header*/
+
+@import url(../blocks/header/header.css);
+
+/*подключение блока header*/
