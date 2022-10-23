@@ -1,3 +1,7 @@
 .place__website {
+  margin: 0;
+  padding: 0;
   list-style-type: none;
+  grid-area: web;
+  align-self: end;
 }

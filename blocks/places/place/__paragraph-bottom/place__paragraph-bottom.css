@@ -1,0 +1,12 @@
+.place__paragraph-bottom {
+  margin: 0 0 86px;
+  padding: 0;
+  max-width: 484px;
+  min-height: 203px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #fff;
+  grid-area: paragraph-bottom;
+}
