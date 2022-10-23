@@ -39,6 +39,15 @@
 
 /*подключение блока lead*/
 
+/*подключение блока intro*/
+
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+
+/*подключение блока intro*/
+
 /*подключение блока cover*/
 
 @import url(../blocks/cover/cover.css);
