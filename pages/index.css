@@ -35,6 +35,7 @@
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__pic/lead__pic.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+@import url(../blocks/lead/lead.css);
 
 /*подключение блока lead*/
 
