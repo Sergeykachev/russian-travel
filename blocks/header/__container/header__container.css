@@ -1,4 +1,5 @@
 .header__container {
-  display: flex;
   list-style-type: none;
+  display: flex;
+  justify-content: space-between;
 }
