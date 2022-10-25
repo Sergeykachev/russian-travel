@@ -1,11 +1,10 @@
 .places {
-  margin: 0;
+  margin: 92px 0;
   padding: 0;
   font-family: "Inter", Arial, sans-serif;
 }
 
 @media screen and (max-width: 568px) {
   .places {
-    margin-top: 64px;
   }
 }

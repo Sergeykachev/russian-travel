@@ -1,15 +1,14 @@
 .place__title {
-  display: block;
   margin: 0;
   padding: 0;
   max-width: 460px;
-  min-height: 100%;
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   color: #fff;
   grid-area: title;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1124px) {
@@ -18,9 +17,10 @@
   }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 928px) {
   .place__title {
     max-width: 340px;
+    line-height: 46px;
     font-size: 42px;
   }
 }
