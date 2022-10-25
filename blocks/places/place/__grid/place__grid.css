@@ -5,8 +5,8 @@
   grid-template-rows: repeat(2, minmax(min-content, max-content));
   grid-template-areas:
     "title web"
-    "img paragraph-top"
-    "img paragraph-bottom";
+    "img paragraph"
+    "img paragraph";
   grid-column-gap: 40px;
   grid-row-gap: 48px;
 }

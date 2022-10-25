@@ -63,11 +63,12 @@
 @import url(../blocks/places/place/__website/place__website.css);
 @import url(../blocks/places/place/__url-heading/place__url-heading.css);
 @import url(../blocks/places/place/__title/place__title.css);
-@import url(../blocks/places/place/__paragraph-top/place__paragraph-top.css);
-@import url(../blocks/places/place/__paragraph-bottom/place__paragraph-bottom.css);
+@import url(../blocks/places/place/__top/paragraph__top.css);
+@import url(../blocks/places/place/__bottom/paragraph__bottom.css);
 @import url(../blocks/places/place/__link/place__link.css);
 @import url(../blocks/places/place/__image/place__image.css);
 @import url(../blocks/places/place/__grid/place__grid.css);
+@import url(../blocks/places/place/__grid/paragraph/paragraph.css);
 
 /*подключение блока places*/
 
@@ -78,4 +79,4 @@
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
 
-/*подключение блока cover*/
+/*подключение блока cover*/ ;;

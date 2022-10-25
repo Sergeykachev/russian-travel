@@ -1,5 +1,5 @@
-.place__paragraph-bottom {
-  margin: 0 0 86px;
+.paragraph__bottom {
+  margin: 26px 0 0;
   padding: 0;
   max-width: 484px;
   min-height: 203px;
@@ -8,5 +8,4 @@
   font-size: 18px;
   line-height: 163%;
   color: #fff;
-  grid-area: paragraph-bottom;
 }

@@ -1,4 +1,4 @@
-.place__paragraph-top {
+.paragraph__top {
   margin: 0;
   padding: 0;
   max-width: 484px;
@@ -8,5 +8,4 @@
   font-size: 18px;
   line-height: 163%;
   color: #fff;
-  grid-area: paragraph-top;
 }
