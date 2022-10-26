@@ -25,6 +25,8 @@
 
 ##Практическая работа №3
 
+Ссылка на GitHub pages: https://sergeykachev.github.io/russian-travel/
+
 #План выполнения.
 
 1. Сформировать структуру сайта.
