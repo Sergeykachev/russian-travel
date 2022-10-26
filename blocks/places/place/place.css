@@ -1,6 +1,6 @@
 .place {
   list-style-type: none;
-  margin: 0 148px;
+  margin: 0 auto;
   padding: 0;
 }
 
@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 650px) {
   .place {
     margin: 0 16px;
   }

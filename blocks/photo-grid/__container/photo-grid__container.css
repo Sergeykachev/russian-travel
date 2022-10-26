@@ -28,7 +28,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 650px) {
   .photo-grid__container {
     grid-gap: 12px;
     grid-template-rows: repeat(12, minmax(min-content, max-content));

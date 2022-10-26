@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 650px) {
   .lead__caption {
     left: 16px;
   }
