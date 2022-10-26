@@ -1,3 +1,9 @@
 .cover {
   font-family: "inter", Arial, sans-serif;
 }
+
+@media screen and (max-width: 928px) {
+  .cover {
+    margin: 66px 0 64px;
+  }
+}

@@ -1,0 +1,18 @@
+.paragraph__bottom {
+  margin: 26px 0 0;
+  padding: 0;
+  max-width: 484px;
+  min-height: 203px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #fff;
+}
+
+@media screen and (max-width: 928px) {
+  .paragraph__bottom {
+    font-size: 16px;
+    margin: 25px 0 0;
+  }
+}
