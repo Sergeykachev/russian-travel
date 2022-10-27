@@ -1,17 +1,15 @@
 .intro__title {
   display: block;
-  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
-  font-size: 54px;
+  font-size: 4.219vw;
   line-height: 58px;
-  min-width: 690px;
-  min-height: 58px;
   color: #fff;
   margin: 0;
   padding: 0;
+  text-rendering: optimizeLegibility;
 }
-
+/* 
 @media screen and (max-width: 928px) {
   .intro__title {
     max-width: 720px;
@@ -26,4 +24,4 @@
     font-size: 32px;
     line-height: 35px;
   }
-}
+} */

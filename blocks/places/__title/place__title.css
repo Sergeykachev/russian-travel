@@ -4,14 +4,14 @@
   max-width: 460px;
   font-style: normal;
   font-weight: 900;
-  font-size: 72px;
+  font-size: 5.625vw;
   line-height: 76px;
   color: #fff;
   grid-area: title;
   text-rendering: optimizeLegibility;
 }
 
-@media screen and (max-width: 1124px) {
+/* @media screen and (max-width: 1124px) {
   .place__title {
     max-width: 440px;
   }
@@ -31,4 +31,4 @@
     font-size: 22px;
     line-height: 35px;
   }
-}
+} */

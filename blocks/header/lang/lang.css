@@ -1,6 +1,7 @@
-.paragraph {
+.lang {
+  display: flex;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  grid-area: paragraph;
+  align-self: end;
 }
