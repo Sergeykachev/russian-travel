@@ -3,4 +3,12 @@
   flex-direction: column;
   align-items: center;
   font-family: "Inter", Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    margin: 0 48px;
+  }
 }

@@ -2,3 +2,9 @@
   box-sizing: border-box;
   margin: 64px auto 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__figure {
+    margin: 56px auto 0;
+  }
+}
