@@ -3,10 +3,28 @@
   max-width: 690px;
   min-height: 429px;
   margin: 92px auto 92px 148px;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
   .intro {
     margin: 92px auto 92px 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    margin: 88px auto 88px 24px;
+  }
+}
+
+@media screen and (max-width: 545px) {
+  .intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    -moz-align-items: center;
+    margin: 64px 0 64px 0;
+    padding: 0 16px;
   }
 }

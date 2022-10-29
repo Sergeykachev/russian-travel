@@ -11,16 +11,16 @@
   }
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 930px) {
   .photo-grid__item {
-    width: 352px;
-    height: 264px;
+    max-width: 352px;
+    max-height: 264px;
   }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 425px) {
   .photo-grid__item {
-    width: 288px;
-    height: 216px;
+    max-width: 288px;
+    max-height: 216px;
   }
 }

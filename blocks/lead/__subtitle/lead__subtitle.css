@@ -4,9 +4,25 @@
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
-  line-height: 36px;
+  line-height: 120%;
   text-align: center;
   color: #ffffff;
   margin: 0 auto;
   text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__subtitle {
+    margin: 0 64px;
+  }
+}
+
+@media screen and (max-width: 545px) {
+  .lead__subtitle {
+    margin: 0 16px;
+    font-size: 16px;
+    line-height: 20px;
+    max-width: 288px;
+    min-height: 40px;
+  }
 }

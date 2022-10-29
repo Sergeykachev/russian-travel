@@ -8,3 +8,10 @@
   line-height: 28px;
   margin-left: 18px;
 }
+
+@media screen and (max-width: 545px) {
+  .lang__en {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

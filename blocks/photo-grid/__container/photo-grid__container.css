@@ -20,9 +20,8 @@
   }
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 930px) {
   .photo-grid__container {
-    margin: 56px 0 0;
     grid-template-rows: repeat(6, minmax(min-content, max-content));
     grid-template-columns: repeat(2, minmax(min-content, max-content));
   }

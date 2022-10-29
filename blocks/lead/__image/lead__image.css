@@ -5,26 +5,17 @@
   display: block;
 }
 
-/* @media screen and (max-width: 1180px) {
+@media screen and (max-width: 768px) {
   .lead__image {
-    max-height: 580px;
-    min-width: 928px;
-    margin: 56px auto 0;
+    width: 100%;
+    max-width: 768px;
+    height: auto;
   }
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 545px) {
   .lead__image {
-    max-height: 480px;
-    min-width: 768px;
-    margin: 56px auto 0;
+    width: 320px;
+    height: auto;
   }
 }
-
-@media screen and (max-width: 690px) {
-  .lead__image {
-    min-height: 200px;
-    min-width: 320px;
-    margin: 40px auto 0;
-  }
-} */

@@ -4,3 +4,9 @@
   grid-area: web;
   align-self: end;
 }
+
+@media screen and (max-width: 545px) {
+  .place__website {
+    margin: 0 16px;
+  }
+}
