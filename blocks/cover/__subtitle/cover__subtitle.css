@@ -5,6 +5,7 @@
   margin: 16px 0 0;
   max-width: 360px;
   text-align: center;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 928px) {

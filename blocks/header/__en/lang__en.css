@@ -1,0 +1,17 @@
+.lang__en {
+  font-family: Inter, Arial;
+  font-style: normal;
+  text-decoration: none;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-left: 18px;
+}
+
+@media screen and (max-width: 545px) {
+  .lang__en {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

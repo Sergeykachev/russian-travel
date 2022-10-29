@@ -2,25 +2,24 @@
   display: block;
   max-width: 284px;
   min-height: 213px;
+  object-fit: contain;
 }
 
 @media screen and (max-width: 1180px) {
   .photo-grid__item {
     max-width: 300px;
-    max-height: 225px;
   }
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 930px) {
   .photo-grid__item {
-    width: 352px;
-    height: 264px;
+    width: 100%;
+    max-width: 352px;
   }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 425px) {
   .photo-grid__item {
-    width: 288px;
-    height: 216px;
+    max-width: 288px;
   }
 }
