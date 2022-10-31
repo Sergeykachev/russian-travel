@@ -1,4 +1,4 @@
-.footer-nav {
+.footer__nav {
   display: flex;
   justify-content: space-between;
   max-width: 1184px;
@@ -6,20 +6,20 @@
 }
 
 @media screen and (max-width: 768px) {
-  .footer-nav {
+  .footer__nav {
     margin: 88px 24px 24px 24px;
     max-width: 720px;
   }
 }
 
 @media screen and (max-width: 690px) {
-  .footer-nav {
+  .footer__nav {
     flex-wrap: wrap;
   }
 }
 
 @media screen and (max-width: 545px) {
-  .footer-nav {
+  .footer__nav {
     flex-direction: column;
     margin: 64px 16px 24px;
   }

@@ -1,16 +1,16 @@
-.lang__ru {
+.header__lang-link {
   font-family: Inter, Arial;
   font-style: normal;
   text-decoration: none;
-  border-bottom: 1px solid;
   color: #fff;
   font-size: 24px;
   font-weight: 400;
   line-height: 28px;
+  margin-left: 18px;
 }
 
 @media screen and (max-width: 545px) {
-  .lang__ru {
+  .header__lang-link {
     font-size: 18px;
     line-height: 20px;
   }

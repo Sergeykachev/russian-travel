@@ -18,18 +18,16 @@
 }
 @media screen and (max-width: 928px) {
   .place__title {
-    max-width: 100%;
+    max-width: 97%;
     height: auto;
     line-height: 46px;
     font-size: 42px;
-  }
-  .place__title:first-child {
-    max-width: 90%;
   }
 }
 
 @media screen and (max-width: 545px) {
   .place__title {
+    max-width: 100%;
     line-height: 35px;
     font-size: 32px;
     margin: 0 16px;
