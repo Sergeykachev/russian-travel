@@ -1,6 +1,5 @@
-.place__paragraph-bottom {
+.place__paragraph {
   margin: 0;
-  margin-top: 26px;
   padding: 0;
   max-width: 484px;
   font-style: normal;
@@ -9,18 +8,16 @@
   line-height: 163%;
   color: #fff;
   line-break: strict;
-  grid-area: paragraph-bottom;
 }
 
 @media screen and (max-width: 930px) {
-  .place__paragraph-bottom {
+  .place__paragraph {
     font-size: 16px;
-    margin-top: 25px;
   }
 }
 
 @media screen and (max-width: 545px) {
-  .place__paragraph-bottom {
-    margin: 25px 16px 0;
+  .place__paragraph {
+    margin: 0 16px;
   }
 }
